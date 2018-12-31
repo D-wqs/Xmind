@@ -1,2 +1,2 @@
-this git create repository
-this modify readme.txt
+     1	this use cat
+     2	is cover read.txt?
